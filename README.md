@@ -12,6 +12,8 @@ Currently advancing XR/VR development while seeking innovative game projects.
 <details><summary>Hyper-Casual</summary>
 
 <details><summary>01 - Air Buttle 1945 (Andoid & iOS)</summary>
+
+## CLICK THE IMAGE BELOW
   
 [![Gameplay](https://img.youtube.com/vi/JawEXh_Cqck/0.jpg)](https://youtu.be/JawEXh_Cqck)
 
@@ -59,6 +61,10 @@ Target audience: fans of classic arcade shooters looking for modern gameplay ele
 
 <details><summary>02 - Idle Fishing Tycoon: Hook It! (Andoid & iOS)</summary>
 
+## CLICK THE IMAGE BELOW
+
+[![Gameplay](https://img.youtube.com/vi/_UqWCtcHEUY/0.jpg)](https://youtu.be/_UqWCtcHEUY)
+
 Game concept: an idle fishing simulation where players control a boat, catch fish, and develop their fishing business through various upgrades and management mechanics.
 
 Key mechanics:
@@ -101,6 +107,8 @@ Target audience: casual players who enjoy idle games with active gameplay elemen
 </details>
   
 <details><summary>03 - Love Archer (Andoid & iOS + Amazon)</summary>
+
+## CLICK THE IMAGE BELOW
   
 [![Gameplay](https://img.youtube.com/vi/uXUVxxbGb7k/0.jpg)](https://www.youtube.com/watch?v=uXUVxxbGb7k)
 
@@ -138,6 +146,8 @@ Target audience: children and casual players, with family-friendly content and a
 </details>
 
 <details><summary>04 - ZigZag (Andoid)</summary>
+
+## CLICK THE IMAGE BELOW
 
 [![Gameplay](https://img.youtube.com/vi/EgFZggjMxdI/0.jpg)](https://www.youtube.com/watch?v=EgFZggjMxdI)
 
@@ -178,6 +188,8 @@ Target audience: casual players looking for a simple yet challenging arcade expe
 
 <details><summary>05 - Color Adventure (Andoid & iOS + Amazon)</summary>
 
+## CLICK THE IMAGE BELOW
+
 [![Gameplay](https://img.youtube.com/vi/r7AtrIHEYJY/0.jpg)](https://www.youtube.com/watch?v=r7AtrIHEYJY)
 
 Game concept: a casual endless runner where players guide a character (initially a cube) along a road, collecting stickers/postcards of famous landmarks while avoiding obstacles.
@@ -216,6 +228,8 @@ Target audience: casual players looking for simple yet engaging gameplay with co
 </details>
 
 <details><summary>06 - Mobile Run (Andoid & iOS + Amazon)</summary>
+
+## CLICK THE IMAGE BELOW
 
 [![Gameplay](https://img.youtube.com/vi/wCeNd8PoAQY/0.jpg)](https://www.youtube.com/watch?v=wCeNd8PoAQY)
 
