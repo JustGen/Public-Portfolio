@@ -9,7 +9,7 @@ Skilled in full-cycle game development from prototype to release, with focus on 
 Currently advancing XR/VR development while seeking innovative game projects.
 
 ## Unity Projects
-<details><summary>Hyper-Casual</summary>
+<details><summary>Games</summary>
 
 <details><summary>01 - Air Buttle 1945 (Andoid & iOS)</summary>
 
@@ -260,12 +260,291 @@ Technical implementation:
 Target audience: casual players, including children, which is reflected in the design and gameplay mechanics complexity.
 </details>
 
+<details><summary>07 - Fat Clicker (Andoid & iOS)</summary>
+  
+## CLICK THE IMAGE BELOW
+
+[![Gameplay](https://img.youtube.com/vi/ZBLKybebMws/0.jpg)](https://youtu.be/ZBLKybebMws)
+
+Game concept: a casual clicker game where players help a character gain weight by eating food, then sell accumulated fat to buy better food and upgrades.
+
+Key mechanics:
+- Tap-to-eat core gameplay
+- Fat accumulation and selling system
+- Food variety with different weight gain rates
+- Upgrade progression system
+- Booster mechanics
+
+Game features:
+- Three types of boosters:
+  - Auto-clicker for passive eating
+  - Double fat gain multiplier
+  - Two-handed eating speed boost
+- Progressive food unlocks
+- Character weight visualization
+- Upgrade system:
+  - Eating speed improvements
+  - Profit multiplier upgrades
+
+Technical implementation:
+- Built with Unity
+- Simple yet responsive UI system
+- Progress saving system
+- Resource management
+- Character animation system
+- Optimization for mobile devices
+
+Visual style:
+- Clean, cartoonish graphics
+- Clear UI elements
+- Simple yet effective animations
+- Progress visualization
+- Coherent color scheme
+
+Target audience: casual players who enjoy idle/clicker games with humorous elements and straightforward progression systems.
+</details>
+
+<details><summary>08 - Money Field (Andoid & iOS)</summary>
+
+## CLICK THE IMAGE BELOW
+
+[![Gameplay](https://img.youtube.com/vi/s-xoGX3ex0Q/0.jpg)](https://www.youtube.com/watch?v=s-xoGX3ex0Q)
+
+Game concept: a casual money-collecting game where players stack currency to unlock and expand their money-generating fields, progressing through various locations.
+
+Key mechanics:
+- Stack collection gameplay
+- Drag-to-move controls
+- Progressive field unlocking system
+- Multiple location progression
+- Money stack management
+
+Gameplay features:
+- Different field sizes to unlock
+- Stack collection and combination
+- Level-based progression (10 levels per area)
+- Currency value scaling system
+- Field expansion mechanics
+
+Technical implementation:
+- Built with Unity
+- Simple touch controls
+- Stack physics system
+- Progress tracking
+- Resource management system
+- Efficient performance optimization
+
+Visual style:
+- Clean, minimalistic 3D graphics
+- Simple yet effective animations
+- Clear monetary value display
+- Intuitive UI elements
+- Smooth visual feedback
+
+Target audience: casual players who enjoy simple collection mechanics with clear progression systems.
+</details>
+
+<details><summary>09 - Fish Sort Puzzle (Andoid & iOS)</summary>
+  
+## CLICK THE IMAGE BELOW
+
+[![Gameplay](https://img.youtube.com/vi/L1u-h8ZYwR8/0.jpg)](https://www.youtube.com/watch?v=L1u-h8ZYwR8)
+
+Game concept: a sorting puzzle game where players organize different types of fish on platforms with customizable visual elements and expandable sorting space.
+
+Key mechanics:
+- Fish sorting by type and color
+- Level-based progression system
+- Platform management
+- Two game modes:
+  - Challenge (25 levels)
+  - Classic (500 levels)
+
+Gameplay features:
+- Multiple fish types with distinct visual styles
+- Platform-based sorting mechanics
+- Space management challenge
+- Customization options:
+  - Background themes
+  - Platform designs
+  - Seaweed variations
+- Extra platform purchase option
+
+Technical implementation:
+- Built with Unity
+- Drag and drop mechanics
+- Save system for progress
+- Asset management system
+- Customization system
+- Ad integration for rewards
+- Sound system
+
+Visual style:
+- Colorful underwater theme
+- Animated fish characters
+- Bubble particle effects
+- Clean UI design
+- Smooth animations
+
+Target audience: casual players who enjoy relaxing puzzle games with organization elements and customization options.
+</details>
+
+<details><summary>10 - Block-Sand-Water Sort Puzzle (Andoid & iOS)</summary>
+  
+## CLICK THE IMAGE BELOW
+
+[![Gameplay](https://img.youtube.com/vi/UF-10GbfQuo/0.jpg)](https://youtu.be/UF-10GbfQuo)
+
+**Overview:**
+Block-Sand-Water Sort Puzzle is a unique puzzle game that combines three distinct sorting mechanics into one engaging experience. Players can enjoy the challenge of sorting blocks, sand, and water across different vessels, each offering its own unique gameplay mechanics.
+
+**Player Features:**
+
+1. Three Game Modes:
+   - Block Sorting: Strategic sorting of colored blocks between bottles
+   - Sand Sorting: Physics-based sand movement mechanics
+   - Water Sorting: Fluid dynamics puzzle solving
+
+2. Core Gameplay Elements:
+   - Intuitive touch controls for material transfer
+   - Undo function for mistake correction
+   - Additional vessel option for complex level solutions
+   - Coin reward system for level completion
+   - Progressive difficulty across levels
+
+3. Customization:
+   - Bottle skins shop with various designs
+   - Multiple background themes
+   - Decorative bottle caps featuring:
+     * Wizard hat
+     * Viking helmet
+     * Pumpkin head
+
+4. Game Tools:
+   - Move counter per level
+   - Reset level option
+   - Undo last move feature
+   - Extra bottle powerup
+
+**Technical Implementation:**
+
+1. Core Systems:
+   - Unity physics engine implementation for fluid dynamics
+   - Particle system management for sand mechanics
+   - Discrete movement system for block sorting
+   - Progress tracking and statistics system
+
+2. Game Architecture:
+   - Level progression system
+   - In-game economy management
+   - Move validation system
+   - Action history system for undo functionality
+   - Save/Load system for game progress
+
+3. UI/UX Design:
+   - Clean, minimalist interface
+   - Clear visual feedback for player actions
+   - Seamless mode switching
+   - Tutorial system for new players
+   - Responsive button layout
+
+4. Monetization Integration:
+   - Google AdMob implementation
+   - In-app purchase system for cosmetic items
+   - Reward video ads for bonus coins
+   - Shop system for cosmetic items
+
+5. Performance Optimization:
+   - Efficient particle rendering
+   - Optimized fluid physics calculations
+   - Object pooling for resource management
+   - Memory usage optimization
+
+6. Visual Effects:
+   - Particle effects for successful completion
+   - Smooth animation transitions
+   - Dynamic color blending for liquids
+   - Interactive material physics
+
+**Development Challenges Solved:**
+- Implementation of accurate fluid physics
+- Creation of realistic sand movement
+- Optimization of particle systems
+- Balance between performance and visual quality
+- Seamless integration of three different gameplay mechanics
+
+**Future Development Potential:**
+- Additional game modes
+- New customization options
+- Social features implementation
+- Leaderboard system
+- Achievement system
+- Daily challenges
+- New bottle designs
+- Advanced level creation tools
+
+This puzzle game combines classic sorting mechanics with modern physics-based gameplay, creating an engaging experience that challenges players while maintaining accessibility for all skill levels.
+</details>
+
 <details><summary></summary>
 </details>
 
 </details>
 
 <details><summary>Apps</summary>
-<details><summary>01 - Fitness Pet App</summary>
+
+<details><summary>01 - Fitness Pet App (Andoid & iOS)</summary>
 Worked on a contract project for an African company, developing a sports application for a client in the UAE. Implemented comprehensive cross-platform data integration for iOS and Android wearables, including fitness trackers and smartwatches. Engineered data collection systems utilizing Apple HealthKit and Google Fit APIs for health metrics processing. Served as primary QA engineer for device compatibility testing, ensuring optimal performance across multiple platforms and devices.
+</details>
+
+<details><summary>02 - Painter (Andoid & iOS)</summary>
+  
+## CLICK THE IMAGE BELOW
+
+[![Gameplay](https://img.youtube.com/vi//0.jpg)]()
+
+Participated as a developer in enhancing and optimizing an existing coloring book application, focusing on specific technical improvements and feature refinements.
+
+**Areas of Contribution:**
+
+1. Stability Enhancements:
+   - Improved application stability
+   - Fixed critical coloring accuracy issues
+   - Enhanced performance optimization
+   - Resolved memory management problems
+
+2. UI/UX Improvements:
+   - Refined parts of user interface
+   - Enhanced menu navigation
+   - Improved response time for user interactions
+   - Optimized interface elements
+
+3. Core Mechanics Optimization:
+   - Enhanced coloring precision
+   - Fixed color bleeding between sections
+   - Improved touch response accuracy
+   - Refined painting mechanics
+
+4. Technical Fixes:
+   - Resolved various bugs in coloring system
+   - Enhanced save/load functionality
+   - Improved overall application stability
+   - Optimized resource usage
+
+**Project Structure:**
+The original application includes:
+- Multiple coloring categories (Anime, Mandala, Flowers, Art)
+- Premium features system
+- Progress tracking
+- Customization options
+- Multi-language support
+
+**Impact of Contributions:**
+The implemented improvements helped enhance the user experience by:
+- Providing more stable coloring mechanics
+- Ensuring more precise color application
+- Delivering smoother overall performance
+- Creating a more reliable user interface
+
+This experience involved working within an established codebase, requiring careful consideration of existing systems while implementing improvements and fixes to enhance the overall user experience.
 </details>
