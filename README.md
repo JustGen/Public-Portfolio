@@ -1,5 +1,7 @@
 # Public-Portfolio
 
+[CV 2025 - Yevhenii Bielik.pdf](https://github.com/user-attachments/files/18387746/CV.2025.-.Yevhenii.Bielik.pdf)
+
 ## About
 Experienced Unity Developer with extensive game development expertise across mobile, PC, and VR platforms.
 Proven expertise in creating engaging gameplay systems, optimized game architectures, and implementing modern development practices including Dependency Injection(Zenject) and reactive programming (UniRx). 
