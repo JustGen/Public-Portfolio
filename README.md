@@ -1,6 +1,6 @@
 # Public-Portfolio
 
-[CV 2025 - Yevhenii Bielik.pdf](https://github.com/user-attachments/files/18387746/CV.2025.-.Yevhenii.Bielik.pdf)
+[CV 2025 - Yevhenii Bielik.pdf](https://github.com/user-attachments/files/18390764/CV.2025.-.Yevhenii.Bielik.pdf)
 
 ## About
 Experienced Unity Developer with extensive game development expertise across mobile, PC, and VR platforms.
