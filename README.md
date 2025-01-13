@@ -501,7 +501,7 @@ Worked on a contract project for an African company, developing a sports applica
   
 ## CLICK THE IMAGE BELOW
 
-[![Gameplay](https://img.youtube.com/vi//0.jpg)]()
+[![Gameplay](https://img.youtube.com/vi/jOqPEGI0Oc4/0.jpg)](https://youtu.be/jOqPEGI0Oc4)
 
 Participated as a developer in enhancing and optimizing an existing coloring book application, focusing on specific technical improvements and feature refinements.
 
