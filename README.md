@@ -486,9 +486,188 @@ Block-Sand-Water Sort Puzzle is a unique puzzle game that combines three distinc
 This puzzle game combines classic sorting mechanics with modern physics-based gameplay, creating an engaging experience that challenges players while maintaining accessibility for all skill levels.
 </details>
 
-<details><summary></summary>
+<details><summary>11 - PopIt (Android)</summary>
+  
+## CLICK THE IMAGE BELOW
+
+[![Gameplay](https://img.youtube.com/vi/YYfF9mFQ_gU/0.jpg)](https://youtu.be/YYfF9mFQ_gU)
+
+**Original Game Context:**
+Pop It Puzzle is a digital adaptation of the popular fidget toy trend from 2020-2021, where players assemble and interact with bubble-popping puzzles. As a developer, I contributed to enhancing specific aspects of this established game concept.
+
+**Areas of Contribution:**
+
+1. Technical Improvements:
+   - Enhanced stability of the popping mechanism
+   - Improved puzzle assembly mechanics
+   - Optimized performance for smooth bubble interactions
+   - Fixed various technical issues
+
+2. UI Elements Enhancement:
+   - Refined parts of the user interface
+   - Improved menu navigation
+   - Enhanced visual feedback for bubble interactions
+
+3. Game Features:
+   - Shop system integration
+   - Background customization options
+   - Figure coloring system
+   - Settings menu functionality
+
+**Game Structure Overview:**
+The original game includes:
+- Bubble-popping gameplay mechanics
+- Puzzle assembly system
+- Customization options
+- Virtual currency system
+- In-app purchases
+
+**Monetization System:**
+- Diamond currency implementation
+- Premium backgrounds
+- Custom texture options
+- Advertisement integration
+
+**Settings and Features:**
+- Sound controls
+- Music toggle
+- Vibration settings
+- Language options (English/Russian)
+- Save system implementation
+
+The project involved working with the existing codebase to enhance gameplay mechanics and user experience while maintaining the core concept of the original Pop It toys' satisfying interaction.
 </details>
 
+<details><summary>12 - Squid Game (Android)</summary>
+  
+## CLICK THE IMAGE BELOW
+
+[![Gameplay](https://img.youtube.com/vi/fe86gCspQFI/0.jpg)](https://youtu.be/fe86gCspQFI)
+
+**Project Context:**
+This game is based on the popular Netflix series "Squid Game," specifically focusing on the iconic "Red Light, Green Light" challenge. As a developer, I contributed to implementing and improving specific game mechanics.
+
+**Core Features:**
+
+1. Main Game Mechanics:
+   - Red Light, Green Light system
+   - Timer implementation
+   - Bot AI and elimination system
+   - Character movement controls
+   - Level progression system
+
+2. Monetization Features:
+   - In-game currency system
+   - Character shop with upgrades
+   - In-App Purchases integration
+   - Ad system implementation
+
+3. Player Progression:
+   - Starting character (001)
+   - Unlockable characters with enhanced speed
+   - Currency earning through level completion
+   - Character stat system with three attributes
+
+4. UI Implementation:
+   - Main menu interface
+   - Settings panel
+   - Shop system
+   - Character selection screen
+   - Currency display
+
+5. Game Environment:
+   - Atmospheric dark setting
+   - Visual elements from the series
+   - Dead trees and background elements
+   - Distance counter for players
+
+6. Technical Features:
+   - Basic settings functionality:
+     * Music toggle
+     * Sound effects
+     * Language selection (English/Russian)
+   - Save system for progress
+   - Performance optimization
+   - Mobile controls adaptation
+
+7. Monetization Structure:
+   - In-game currency packages:
+     * 5,999 coins - $1.99
+     * 10,999 coins - $2.99
+     * 15,999 coins - $3.99
+     * 25,999 coins - $4.99
+   - Remove ads option - $1.49
+
+This implementation focuses on recreating the tension and atmosphere of the series' first game while providing players with progression and customization options through the monetization system.
+</details>
+
+<details><summary>13 - Trading PopIt (Android)</summary>
+  
+## CLICK THE IMAGE BELOW
+
+[![Gameplay](https://img.youtube.com/vi/Dpea-KpWNZE/0.jpg)](https://youtu.be/Dpea-KpWNZE)
+
+**Overview:**
+Trading PopIt is a unique trading simulation game that combines the popular fidget toys trend with trading mechanics. The game features a PopIt interaction system alongside strategic trading gameplay.
+
+**Game Features:**
+
+1. Trading Mechanics:
+   - Three-choice trading system (Accept/Raise/Decline)
+   - Deal profitability indicator
+   - Multiple trading partners (1 free, 2 premium)
+   - Various collectible items for trading
+
+2. Interactive Elements:
+   - PopIt bubble popping mechanics
+   - Simple Dimple interaction system
+   - Trading interface with gesture controls
+   - Deal evaluation system
+
+3. Tradeable Items:
+   - PopIt toys
+   - Simple Dimple
+   - Spinners
+   - Other fidget toys
+   - Tech accessories (phones, tablets)
+
+4. User Interface:
+   - Clean trading screen layout
+   - Deal response buttons (✓, +, ×)
+   - Profitability indicator bar
+   - Item selection interface
+   - Clear visual feedback system
+
+5. Monetization:
+   - Premium trading partners
+   - In-game currency system
+   - IAP for special items
+   - Diamond currency system
+   - Ad integration system
+
+6. Game Progression:
+   - Level-based trading system
+   - Unlockable trading partners
+   - Special PopIt interaction levels
+   - Progressive difficulty system
+
+7. Technical Features:
+   - Basic settings functionality
+   - Sound system
+   - Save system
+   - Optimization for mobile devices
+
+8. Additional Features:
+   - Tutorial system
+   - Profile customization
+   - Item collection system
+   - Trading history
+
+The game combines casual fidget toy interactions with strategic trading mechanics, creating an engaging experience that appeals to both fidget toy enthusiasts and trading game fans.
+</details>
+
+<details><summary></summary>
+</details>
 </details>
 
 <details><summary>Apps</summary>
@@ -547,4 +726,76 @@ The implemented improvements helped enhance the user experience by:
 - Creating a more reliable user interface
 
 This experience involved working within an established codebase, requiring careful consideration of existing systems while implementing improvements and fixes to enhance the overall user experience.
+</details>
+
+<details><summary>03 - Case Simulator (Android + iOS)</summary>
+  
+## CLICK THE IMAGE BELOW
+
+[![Gameplay](https://img.youtube.com/vi/oC-bxzYPPxg/0.jpg)](https://youtu.be/oC-bxzYPPxg)
+
+**Project Overview:**
+A Standoff 2 case opening simulator designed to replicate the experience of obtaining in-game items through cases. Note that this is an unofficial simulator application that requires further development and improvements.
+
+**Current Features:**
+
+1. Core Mechanics:
+   - Case opening simulation system
+   - Item rarity hierarchy (Common to Arcane)
+   - Collection progress tracking
+   - Reward system with cases and currency
+
+2. Pass System:
+   - Free Pass with basic rewards
+   - Premium Gold Pass (5000G)
+   - Task-based progression
+   - Mission completion tracking
+
+3. Economy System:
+   - Dual currency (C and G)
+   - Daily rewards through video ads
+     * Gift box rewards
+     * Gold reserves (G50)
+     * Coins (C150)
+
+4. Inventory Management:
+   - Item collection tracking
+   - Rarity-based organization
+   - Progress percentage by category
+   - Item viewing system
+
+5. User Interface:
+   - Inventory display
+   - Shop interface
+   - Market system
+   - Settings menu
+   - Progress tracking
+
+**Areas Needing Improvement:**
+
+1. Technical Development:
+   - Core system optimization
+   - Performance improvements
+   - Bug fixes and stability
+   - User experience refinement
+
+2. Content Expansion:
+   - Additional case types
+   - More item varieties
+   - Extended missions system
+   - Enhanced reward mechanics
+
+3. Interface Enhancement:
+   - UI/UX modernization
+   - Visual feedback improvement
+   - Menu system refinement
+   - Navigation optimization
+
+4. Monetization Integration:
+   - IAP system completion
+   - Ad implementation refinement
+   - Premium features expansion
+   - Reward balance adjustment
+
+This project serves as a foundation for a case opening simulator but requires significant development to reach its full potential. The core mechanics are implemented but need refinement and expansion to create a more complete gaming experience.
 </details>
